@@ -1,10 +1,10 @@
 import React from 'react'
 import './experience.css'
 
-function experience() {
+function Experience() {
   return (
     <div>experience</div>
   )
 }
 
-export default experience
+export default Experience
